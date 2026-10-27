@@ -2,7 +2,7 @@
 
 AI/ML Engineer building production LLM applications — LangChain agents, multimodal classifiers, and ML-powered dashboards.
 
-- 🔭 Currently AI/ML Engineer at **SubMastery**
+- 🔭 Currently Data Analyst / ML Engineer at **SubMastery**
 - 🎓 B.Tech Computer Science, VIT Vellore ('25)
 - ☁️ AWS Solutions Architect – Associate
 - 📫 atishay.aj.2003@gmail.com
@@ -18,4 +18,4 @@ AI/ML Engineer building production LLM applications — LangChain agents, multim
 
 ### Tech I work with
 
-Python · PyTorch · Hugging Face · LangChain · FastAPI · Streamlit · PostgreSQL · AWS
+Python · PyTorch · Hugging Face · LangChain · FastAPI · Streamlit · PostgreSQL · AWS · SQL · Power BI (learning/practice)
